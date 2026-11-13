@@ -6,6 +6,8 @@ A letter arrives with a deadline. The phone rings while you are in the middle of
 
 Hold that thought. Tell Claude, and it goes into a folder in your own Google Drive, in ordinary documents that you can open and change at any time. Your head can let go of it.
 
+A *second brain* is a place outside your head where you keep what you need to remember: what is going on, what you decided and why, what is due when. Here it is a few ordinary documents in your own Google Drive, and Claude does part of the keeping for you. [More on the idea](#the-idea-behind-it)
+
 ## Hold. Come back. Check.
 
 **Hold.** You tell Claude what matters: a photo of a letter, a decision, a deadline. Claude writes it into your folder: where things stand, a box for loose notes, a weekly plan, a diary of what happened, a list of checked facts.
@@ -92,7 +94,7 @@ The full record is on the [page for developers](DEVELOPERS.md#status).
 
 ## The idea behind it
 
-A second brain is a place outside your head where you keep what you need to remember: what is going on, what you decided and why, what you found out, and what is due when. It is not an archive of everything. It holds the handful of things you would otherwise carry around in your head, or lose.
+A second brain is not an archive of everything. It holds the handful of things you would otherwise carry around in your head, or lose: what is going on, what you decided and why, what you found out, and what is due when.
 
 The idea is older than any app. A notebook, a well-kept folder, a list on the fridge: all of them are second brains. The ancient Greeks kept notebooks for exactly this and called them *hypomnemata*. What is new is that an AI assistant can read that place too, and do part of the keeping for you.
 
